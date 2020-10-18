@@ -1,0 +1,14 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Apirest",
+    "description": "Une apirest",
+    "version": "1.0"
+  },
+  "servers": [
+    {
+      "url": "localhost/",
+      "description": "Racine d'url de l'api"
+    }
+  ]
+}
